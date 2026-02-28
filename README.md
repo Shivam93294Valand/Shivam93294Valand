@@ -207,8 +207,7 @@ graph TB
     end
 
     subgraph DataStores["🗄️ Data Layer"]
-        PG["🐘 PostgreSQL<br/>(Orders, Users)"]
-        MG["🍃 MongoDB<br/>(Menu, Catalog)"]
+        SS["🪟 Microsoft SQL Server<br/>(Orders, Users, Menu, Catalog)"]
         RD["⚡ Redis Cache<br/>(~35% faster response)"]
     end
 
@@ -597,11 +596,7 @@ graph LR
 ## 🤝 Let's Connect & Collaborate!
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1500&color=239120&center=true&vCenter=true&width=550&lines=💬+Open+to+collaborations+on+.NET+projects;🔥+Always+happy+to+discuss+system+design;🚀+Let's+build+something+amazing+together!" alt="Connect Typing" />
-
-<br/><br/>
-
+  
 <a href="https://www.linkedin.com/in/shivam-valand-49a44a256/"><img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Send_me_an_email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
 <a href="https://github.com/Shivam93294Valand"><img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -619,7 +614,7 @@ graph LR
   <img src="https://img.shields.io/github/followers/Shivam93294Valand?label=Followers&style=for-the-badge&color=239120" alt="Followers" />&nbsp;
   <img src="https://img.shields.io/github/stars/Shivam93294Valand?label=Total%20Stars&style=for-the-badge&color=239120&affiliations=OWNER" alt="Stars" />
 
-  <br/><br/>
+  <br/>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=2000&color=239120&center=true&vCenter=true&width=500&lines=Thanks+for+scrolling+all+the+way+down!+%E2%9C%A8;Star+%E2%AD%90+a+repo+if+you+found+it+useful!;Happy+coding!+%F0%9F%9A%80" alt="Footer Typing" />
 
