@@ -5,7 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Shivam%20Valand&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=30&desc=.NET%20Software%20Engineer%20%7C%20Backend%20Architect%20%7C%20Microservices%20Enthusiast&descAlignY=52&descSize=17" width="100%" alt="Header" />
 
   <!-- Animated Typing -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=239120&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Shivam+Valand+%F0%9F%91%8B;.NET+Software+Engineer;Microservices+%7C+Backend+Enthusiast;Computer+Science+Student;DevOps+and+Cloud+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=239120&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Shivam+Valand+%F0%9F%91%8B;.NET+Software+Engineer;Microservices+and+Backend+Enthusiast;Computer+Science+Student;DevOps+and+Cloud+Enthusiast" alt="Typing SVG" />
   
   <p align="center">
     <i>Designing scalable backends, event-driven systems, and robust APIs.</i>
