@@ -180,7 +180,7 @@ public class Shivam : ISoftwareEngineer
 
 </div>
 
-<details open>
+<details>
 <summary><b>📐 System Architecture Diagram</b></summary>
 <br/>
 
@@ -236,7 +236,7 @@ graph TB
 
 </details>
 
-<details open>
+<details>
 <summary><b>🔄 Event-Driven Order Flow</b></summary>
 <br/>
 
@@ -281,7 +281,7 @@ sequenceDiagram
 
 </details>
 
-<details open>
+<details>
 <summary><b>📊 Key Highlights</b></summary>
 <br/>
 
@@ -320,7 +320,7 @@ sequenceDiagram
 
 </div>
 
-<details open>
+<details>
 <summary><b>📐 System Architecture Diagram</b></summary>
 <br/>
 
@@ -385,7 +385,7 @@ graph TB
 
 </details>
 
-<details open>
+<details>
 <summary><b>🗃️ Database Entity Relationship Diagram</b></summary>
 <br/>
 
@@ -473,7 +473,7 @@ erDiagram
 
 </details>
 
-<details open>
+<details>
 <summary><b>🔄 User Journey Flow</b></summary>
 <br/>
 
@@ -503,7 +503,7 @@ graph LR
 
 </details>
 
-<details open>
+<details>
 <summary><b>📊 Key Highlights</b></summary>
 <br/>
 
